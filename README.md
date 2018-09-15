@@ -1,16 +1,10 @@
 # BC-VARETA toolbox
 
-Tool for MEEG data processing based on Brain Connectivity Variable Resolution
-Tomographic Analysis (BC-VARETA) Model.
+Tool for MEEG data processing based on Brain Connectivity Variable Resolution Tomographic Analysis (BC-VARETA) Model. 
+See description of BC-VARETA and example in simulations at the link https://github.com/dpazlinares/BC-VARETA.
 
-BC-VARETA toolbox extracts the Source Activity and Connectivity given
-a single frequency component in the Fourier Transform Domain of an
-Individual MEEG Data. 
-
-See the pdf file "Brief of Theory and Results" for an insight to this methodology.
-
-Functions and folder:
-- Main_EEG (**call this function**): Analysis of MEEG real data
+Main Function for MEEG real data analysis
+- Main_EEG (**call this function**): 
    Inputs:
    - data: subfolder containing the EEG data, leadfield, sufraces.
  
