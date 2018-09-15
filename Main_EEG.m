@@ -27,9 +27,7 @@ Nseg      = 5e2;
 snr       = 1;
 snr_ch    = 1;
 verbosity = 1;
-%% estimating cross-spectra...
-disp('estimating cross-spectra for EEG data...');
-[Svv_channel,F,Nseg,PSD] = xspectrum(data,200,[],[]);                 % estimates the Cross Spectrum of the input M/EEG data
+%% applying 
 disp('applying average reference...');
 Nf = length(F);
 for jj = 1:Nf
