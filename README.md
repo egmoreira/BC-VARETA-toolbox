@@ -3,8 +3,11 @@
 Tool for MEEG data processing based on Brain Connectivity Variable Resolution Tomographic Analysis (BC-VARETA) Model. 
 See description of BC-VARETA and example in simulations at the link https://github.com/dpazlinares/BC-VARETA.
 
+data folder with data (time series), leadfield, surface, and electrode info is hosted in Onedrive:
+https://lstneuro-my.sharepoint.com/:u:/g/personal/eduardo_g_m_neuroinformatics-collaboratory_org/ETBz-35Qob5PkvTgnHSOKDUBl3NEMSKQ61PyW2AB3f2F_A?e=JCYw9X
+
 Main Function for MEEG real data analysis
-- Main_EEG (**call this function**).
+- Main (**call this function**).
   
   Inputs:
    - data: subfolder containing the EEG data, leadfield, sufraces.
