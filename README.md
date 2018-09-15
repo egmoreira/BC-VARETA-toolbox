@@ -1,4 +1,4 @@
-# BC-VARETA toolbox v8.1
+# BC-VARETA toolbox
 
 Includes the routines of the Brain Connectivity Variable Resolution
 Tomographic Analysis (BC-VARETA). Also an example for real EEG analysis
