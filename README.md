@@ -5,7 +5,7 @@ See description of BC-VARETA and example in simulations at the link https://gith
 
 Main Function for MEEG real data analysis
 - Main_EEG (**call this function**).
-   Inputs:
+  Inputs:
    - data: subfolder containing the EEG data, leadfield, sufraces.
  
    Outputs:
