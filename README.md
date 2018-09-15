@@ -1,6 +1,7 @@
 # BC-VARETA toolbox
 
-Includes the routines of the Brain Connectivity Variable Resolution
+Tool for MEEG data processing based on Brain Connectivity Variable Resolution
+Tomographic Analysis (BC-VARETA) Model. Includes the routines of the Brain Connectivity Variable Resolution
 Tomographic Analysis (BC-VARETA). Also an example for real EEG analysis
 is achieved by using Main_EEG function.
 
