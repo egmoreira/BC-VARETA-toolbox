@@ -3,7 +3,7 @@
 Tool for MEEG data processing based on Brain Connectivity Variable Resolution Tomographic Analysis (BC-VARETA) Model. 
 See description of BC-VARETA and example in simulations at the link https://github.com/dpazlinares/BC-VARETA.
 
-Example data structure (time series, leadfield, surface, and electrodes) is hosted in Onedrive:
+Example of data structure (time series, leadfield, surface, and electrodes) is hosted in Onedrive:
 
 https://lstneuro-my.sharepoint.com/:u:/g/personal/eduardo_g_m_neuroinformatics-collaboratory_org/ETBz-35Qob5PkvTgnHSOKDUBl3NEMSKQ61PyW2AB3f2F_A?e=JCYw9X
 
