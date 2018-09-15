@@ -5,7 +5,7 @@ BC-VARETA toolbox v8.1  includes the routines of the Brain Connectivity Variable
 See the pdf file "Brief of Theory and Results" for an insight to this methodology.  
 
 Functions and folder: 
-- Main_EEG (**execute this routine for demosntration**): Real EEG analysis with the estimation of activivity and connectivity for the alpha peak.
+- Main_EEG (**execute this routine for demonstration**): Real EEG analysis with the estimation of activivity and connectivity for the alpha peak.
 - xspectrum: computes the spectra of the simulated scalp activity  
 - bcvareta: executes BC-VARETA method 
 - bcvareta_initial_values: computes 'bcvareta' initialization 
