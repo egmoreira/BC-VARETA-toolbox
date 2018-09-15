@@ -4,7 +4,7 @@ Tool for MEEG data processing based on Brain Connectivity Variable Resolution To
 See description of BC-VARETA and example in simulations at the link https://github.com/dpazlinares/BC-VARETA.
 
 Main Function for MEEG real data analysis
-- Main_EEG (**call this function**): 
+- Main_EEG (**call this function**).
    Inputs:
    - data: subfolder containing the EEG data, leadfield, sufraces.
  
